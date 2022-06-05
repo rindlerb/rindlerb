@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rindlerb
-- 👀 I’m interested in copmpuiter science 
+- 👀 I’m interested in computer science 
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on living
 - 📫 How to reach me ether
